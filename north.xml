@@ -249,7 +249,7 @@
                    camera="#000000"
                    view_overlay="#000000"
                    empty="#000000"
-                   object_selected="#cc6152"
+                   object_selected="#617da8"
                    object_active="#f2af61"
                    object_grouped="#172621"
                    object_grouped_active="#9ebf7c"
@@ -339,10 +339,10 @@
                         frame_current="#6282b3"
                         window_sliders="#8f9296"
                         channels_region="#707070"
-                        dopesheet_channel="#52606e"
-                        dopesheet_subchannel="#626c7a"
-                        channel_group="#4f6549"
-                        active_channels_group="#87b17d"
+                        dopesheet_channel="#52616e"
+                        dopesheet_subchannel="#606975"
+                        channel_group="#364d46"
+                        active_channels_group="#364d38"
                         vertex="#000000"
                         vertex_select="#f2b76d"
                         vertex_size="4"
@@ -390,7 +390,7 @@
           <ThemeSpaceListGeneric list="#393c40"
                                  list_title="#cfd8e6"
                                  list_text="#cfd8e6"
-                                 list_text_hi="#f2b355">
+                                 list_text_hi="#e6a75c">
           </ThemeSpaceListGeneric>
         </space_list>
       </ThemeGraphEditor>
@@ -482,7 +482,7 @@
           <ThemeSpaceListGeneric list="#393c40"
                                  list_title="#000000"
                                  list_text="#cfd8e6"
-                                 list_text_hi="#f2c56d">
+                                 list_text_hi="#e6a75c">
           </ThemeSpaceListGeneric>
         </space_list>
       </ThemeNLAEditor>
@@ -492,12 +492,12 @@
                       frame_current="#6282b3"
                       value_sliders="#000000"
                       view_sliders="#969696"
-                      dopesheet_channel="#52606e"
-                      dopesheet_subchannel="#626c7a"
+                      dopesheet_channel="#52616e"
+                      dopesheet_subchannel="#606975"
                       channels="#707070"
                       channels_selected="#60c040"
-                      channel_group="#4f6549"
-                      active_channels_group="#87b17d"
+                      channel_group="#364d46"
+                      active_channels_group="#364d38"
                       long_key="#0c0a0a"
                       long_key_selected="#f29f3d"
                       keyframe="#e8e8e8"
@@ -540,7 +540,7 @@
           <ThemeSpaceListGeneric list="#393c40"
                                  list_title="#cfd8e6"
                                  list_text="#cfd8e6"
-                                 list_text_hi="#f2b355">
+                                 list_text_hi="#e6a75c">
           </ThemeSpaceListGeneric>
         </space_list>
       </ThemeDopeSheet>
@@ -764,17 +764,17 @@
       <ThemeNodeEditor gp_vertex="#000000"
                        gp_vertex_select="#f2aa3d"
                        gp_vertex_size="3"
-                       node_selected="#d8dde6"
+                       node_selected="#617da8"
                        node_active="#f2b76d"
                        wire="#000000"
                        wire_inner="#737373"
-                       wire_select="#d8dde6"
+                       wire_select="#617da8"
                        selected_text="#7f7070"
                        node_backdrop="#8f969fbf"
                        converter_node="#74afb3"
-                       color_node="#d9c16c"
-                       group_node="#657070"
-                       group_socket_node="#dfbb38"
+                       color_node="#e6c573"
+                       group_node="#5c686c"
+                       group_socket_node="#d9ca41"
                        frame_node="#797c8073"
                        matte_node="#bb7070"
                        distor_node="#86bf9d"
@@ -784,7 +784,7 @@
                        filter_node="#cc9f70"
                        vector_node="#898bcc"
                        texture_node="#82a5d9"
-                       shader_node="#8abf69"
+                       shader_node="#94bf69"
                        script_node="#686a75"
                        pattern_node="#686a75"
                        layout_node="#575b61">
@@ -858,7 +858,7 @@
           <ThemeSpaceGeneric back="#3e4145"
                              title="#cfd8e6"
                              text="#cfd8e6"
-                             text_hi="#f2af61"
+                             text_hi="#e6a75c"
                              header="#393c40"
                              header_text="#cfd8e6"
                              header_text_hi="#e6f0ff"
