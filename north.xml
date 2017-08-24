@@ -13,7 +13,7 @@
           <ThemeWidgetColors outline="#000000"
                              inner="#474a4fff"
                              inner_sel="#617da8ff"
-                             item="#292b2eff"
+                             item="#959ca6ff"
                              text="#cfd8e6"
                              text_sel="#000000"
                              show_shaded="FALSE"
@@ -48,8 +48,8 @@
         <wcol_text>
           <ThemeWidgetColors outline="#000000"
                              inner="#7e848cff"
-                             inner_sel="#959ca6ff"
-                             item="#617da8ff"
+                             inner_sel="#6785b3ff"
+                             item="#959ca6ff"
                              text="#000000"
                              text_sel="#000000"
                              show_shaded="FALSE"
@@ -71,9 +71,9 @@
         </wcol_option>
         <wcol_toggle>
           <ThemeWidgetColors outline="#000000"
-                             inner="#474a4fff"
+                             inner="#292b2eff"
                              inner_sel="#617da8ff"
-                             item="#292b2eff"
+                             item="#474a4fff"
                              text="#cfd8e6"
                              text_sel="#000000"
                              show_shaded="FALSE"
@@ -84,8 +84,8 @@
         <wcol_num>
           <ThemeWidgetColors outline="#000000"
                              inner="#7e848cff"
-                             inner_sel="#959ca6ff"
-                             item="#525a66ff"
+                             inner_sel="#6785b3ff"
+                             item="#959ca6ff"
                              text="#000000"
                              text_sel="#000000"
                              show_shaded="FALSE"
@@ -96,8 +96,8 @@
         <wcol_numslider>
           <ThemeWidgetColors outline="#000000"
                              inner="#7e848cff"
-                             inner_sel="#959ca6ff"
-                             item="#525a66ff"
+                             inner_sel="#6785b3ff"
+                             item="#5c6573ff"
                              text="#000000"
                              text_sel="#000000"
                              show_shaded="FALSE"
