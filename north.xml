@@ -71,9 +71,9 @@
         </wcol_option>
         <wcol_toggle>
           <ThemeWidgetColors outline="#000000"
-                             inner="#292b2eff"
+                             inner="#474a4fff"
                              inner_sel="#617da8ff"
-                             item="#474a4fff"
+                             item="#292b2eff"
                              text="#cfd8e6"
                              text_sel="#000000"
                              show_shaded="FALSE"
